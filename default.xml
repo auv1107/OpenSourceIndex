@@ -5,4 +5,6 @@
     <default revision="master" remote="repo-server" />  
     <project name="external/example1" path="external/example1"/>  
     <project name="external/example2" path="external/example2"/>  
+	<project name="external/FloatWindow" path="external/FloatWindow"/>
+	<project name="external/MouseDroid" path="external/MouseDroid"/>
 </manifest>  
